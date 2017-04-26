@@ -1,0 +1,9 @@
+[package]
+name = "playground-gfx"
+version = "0.1.0"
+authors = ["Taryn Hill <taryn@phrohdoh.com>"]
+
+[dependencies]
+gfx = "0.14"
+glutin = "0.7"
+gfx_window_glutin = "0.14"
